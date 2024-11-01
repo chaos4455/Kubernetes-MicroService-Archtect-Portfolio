@@ -258,6 +258,9 @@ Sinta-se à vontade para explorar o repositório e ver de perto como cada compon
 
 ![MobaXterm_Personal_23 6_f5cb45TYNs](https://github.com/user-attachments/assets/b34f096e-2173-4b8c-9754-9dacfef60ec6)
 
+
+Gosto sempre de criar micro aplicações pra testar o ambiente, abaixo dois exemplos pra criar um ambiente mais realista pra testes e benchmarks de performance.
+
 ![chrome_iP5jtjG5Ri](https://github.com/user-attachments/assets/f984f035-39d9-469e-9f3b-a2b76b620435)
 
 ![chrome_k1okC7Rgxp](https://github.com/user-attachments/assets/d044391a-109a-418c-805c-c4512ad00644)
